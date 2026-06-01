@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+resultats/
+cles/
+certificats/
+
+
+5g_ddos.csv
+hist_global.json
+poids_federes_finaux.npy
